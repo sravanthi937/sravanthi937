@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I'm Sravanthi Akula<br>🎓 I'm currently pursuing my B.Tech in Computer Science at SR University (2022–2026), with a strong academic performance (GPA: 9.709/10).<br>🧠 Passionate about Machine Learning, Full Stack Development, and solving real-world problems through code.<br><br>🎡 My Projects<br>Alumni connect: Alumni association platform for the communication between students and alumni.<br>Customer feedback analysis: Classification using ML techniques.<br>Secure email communication: Demonstrates how to send and receive encrypted emails using modern cryptographic techniques.<br>Hotel booking website: Allows users to search, book, and manage hotel reservations.<br>Bank management system: A console-based Bank Management System developed in C.<br><br>🎓 Certifications & Achievements:<br>Amazon ml summer school mentee<br>Database management system(NPTEL)<br>Theory of computation (NPTEL)<br>CCNA: Cybersecurity<br>CCNA: Network security<br>Microsoft certified: Azure fundamentals<br>
 
 
